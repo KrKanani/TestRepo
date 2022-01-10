@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UITests">
+	<listeners>
+		<listener class-name="com.project.utilities.Listener" />
+	</listeners>
+	<test thread-count="5" name="PC App Automation">
+		<parameter name="SlackChannelName" value="" />
+		<parameter name="ProjectId" value="" />
+		<parameter name="Env" value="STG" />
+		<classes>
+			<class
+				name="com.project.safetychain.pcapp.testcases.PreRequisite_DataCreation1">
+				<methods>
+					<include name="TestCase_41441">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+				</methods>
+			</class>
+			<class
+				name="com.project.safetychain.pcapp.testcases.TCG_SMK_Forms_FormFlow1">
+				<methods>
+					<include name="TestCase_34838">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34839">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34840">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34842">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_37265">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34825">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34843">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+				</methods>
+			</class>
+			<class
+				name="com.project.safetychain.pcapp.testcases.TCG_SMK_Inbox_TaskFlow">
+				<methods>
+					<include name="TestCase_34816">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34817">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34818">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34823">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34824">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34826">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+				</methods>
+			</class>
+			<class
+				name="com.project.safetychain.pcapp.testcases.TCG_SMK_Forms_FormFlow2">
+				<methods>
+					<include name="TestCase_37261">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34841">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_38953">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34829">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34830">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_37256">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34827">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34828">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34831">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+				</methods>
+			</class>
+			<class
+				name="com.project.safetychain.pcapp.testcases.TCG_SMK_App_Flows">
+				<methods>
+					<include name="TestCase_34833">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34832">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34834">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34836">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34837">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_34835">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+					<include name="TestCase_38527">
+						<parameter name="Jira Issue Key" value="" />
+					</include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 

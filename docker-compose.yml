@@ -1,0 +1,83 @@
+version: "3.4"
+services:
+  selenium-hub:
+    image: selenium/hub
+    container_name: selenium-hub
+    ports:
+      - "4444:4444"
+  chrome1:
+    image: selenium/node-chrome-debug
+    depends_on:
+      - selenium-hub
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium-hub
+      - HUB_PORT_4444_TCP_PORT=4444
+    ports:
+      - "9001:5900"
+  chrome2:
+    image: selenium/node-chrome-debug
+    depends_on:
+      - selenium-hub
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium-hub
+      - HUB_PORT_4444_TCP_PORT=4444
+    ports:
+      - "9002:5900"
+  chrome3:
+    image: selenium/node-chrome-debug
+    depends_on:
+      - selenium-hub
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium-hub
+      - HUB_PORT_4444_TCP_PORT=4444
+    ports:
+      - "9003:5900"
+  chrome4:
+    image: selenium/node-chrome-debug
+    depends_on:
+      - selenium-hub
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium-hub
+      - HUB_PORT_4444_TCP_PORT=4444
+    ports:
+      - "9004:5900"
+  suite20:
+    image: safetychain/web-smoketest:v1
+    hostname: suite20
+    container_name: suite20
+    depends_on:
+      - chrome1
+    environment:
+      - MODULE=suite20.xml
+      - BROWSER=chrome
+      - SELENIUM_HUB=selenium-hub
+  suite35:
+    image: safetychain/web-smoketest:v1
+    container_name: suite35
+    hostname: suite35
+    depends_on:
+      - chrome2
+    environment:
+      - MODULE=suite35.xml
+      - BROWSER=chrome
+      - SELENIUM_HUB=selenium-hub
+  suite53:
+    image: safetychain/web-smoketest:v1
+    container_name: suite53
+    hostname: suite53
+    depends_on:
+      - chrome3
+    environment:
+      - MODULE=suite53.xml
+      - BROWSER=chrome
+      - SELENIUM_HUB=selenium-hub
+  suite55:
+    image: safetychain/web-smoketest:v1
+    hostname: suite55
+    container_name: suite55
+    depends_on:
+      - chrome4
+    environment:
+      - MODULE=suite55.xml
+      - BROWSER=chrome
+      - SELENIUM_HUB=selenium-hub

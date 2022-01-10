@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RuleBuilder">
+  <listeners>
+    <listener class-name="com.project.utilities.Listener"/>
+    <listener class-name="com.project.utilities.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="1" name="RuleBuilderSuite">
+    <parameter name="SlackChannelName" value=""/>
+    <parameter name="ProjectId" value=""/>
+    <parameter name="Env" value="Live"/>
+    <classes>
+      <class name="com.project.safetychain.webapp.testcases.TCG_REG_RuleBuilder_BasicFlows">
+        <methods>
+          <include name="TestCase_4459"/>
+        </methods>
+      </class> <!-- com.project.safetychain.webapp.testcases.TCG_SMK_AdminToolUsrFlows -->
+    </classes>
+  </test> <!-- UISmokeSuite -->
+</suite> <!-- UITests -->

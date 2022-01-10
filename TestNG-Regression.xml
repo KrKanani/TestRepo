@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UITests">
+	<listeners>
+		<listener class-name="com.project.utilities.Listener" />
+	</listeners>
+	<test thread-count="5" name="Location_Creation">
+		<parameter name="SlackChannelName" value="" />
+		<parameter name="ProjectId" value="" />
+		<parameter name="Env" value="STG" />
+		<classes>
+
+<!-- 			<class -->
+<!-- 				name="com.project.safetychain.mobileapp.testcases.TCG_Reg_LoginFlow" /> -->
+			<class
+				name="com.project.safetychain.mobileapp.testcases.TCG_REG_SettingTabFlow" />
+			<class
+				name="com.project.safetychain.mobileapp.testcases.TCG_REG_DisableFormFeature" />
+			<class
+				name="com.project.safetychain.mobileapp.testcases.TCG_Reg_ResultSummary" />
+
+			<class
+				name="com.project.safetychain.mobileapp.testcases.TCG_REG_QuestionareFormSubmissionsFlow" />
+
+			<class
+				name="com.project.safetychain.mobileapp.testcases.TCG_Reg_DynamicFlow" />
+
+			<class
+				name="com.project.safetychain.mobileapp.testcases.TCG_Reg_FormsAllValidation" />
+
+
+		</classes>
+	</test> <!-- Location_Creation -->
+</suite> <!-- UITests -->

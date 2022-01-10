@@ -1,0 +1,1536 @@
+
+Hub: 8125001191
+Tape: 8125001191
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 8125001191
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MtgTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MtgTypCdBucket FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: Other
+Tape: OTHER
+Hub : SELECT LoanPurpose FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: OTHER
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT UwProgramNm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT NoteDt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT FstPmtDt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MaturityDt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT LoanAmt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT IntRate FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTerm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT IntrPaidToDt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT NotePandI FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: 0.00
+Hub : SELECT FutPmt FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: 0.00
+Tape: 0.00
+Hub : SELECT HazardInsurance_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: 0.00
+Tape: 0.00
+Hub : SELECT FloodInsurance_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: 0.00
+Tape: 0.00
+Hub : SELECT HailandWindInsurance_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: null
+Tape: 0.00
+Hub : SELECT OtherInsurance_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: null
+Tape: 0.00
+Hub : SELECT CountyTaxes_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: 0.00
+Tape: 0.00
+Hub : SELECT CityTaxes_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: 0.00
+Tape: 0.00
+Hub : SELECT SchoolTaxes_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: null
+Tape: 0.00
+Hub : SELECT OtherTaxes_MoAmt FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: 0.00
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ApplicationDate FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_ConvertibleIndicator FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: Primary Residence
+Tape: PRIMARY RESIDENCE
+Hub : SELECT OccType FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: PRIMARY RESIDENCE
+-------------
+
+Hub: OTHER
+Tape: OTHER
+Hub : SELECT PropType FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: OTHER
+-------------
+
+Hub: 4
+Tape: 4
+Hub : SELECT Units FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 4
+-------------
+
+Hub: 1 Main St
+Tape: 1 MAIN ST
+Hub : SELECT Address FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 1 MAIN ST
+-------------
+
+Hub: Thousand Oaks
+Tape: THOUSAND OAKS
+Hub : SELECT City FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: THOUSAND OAKS
+-------------
+
+Hub: CA
+Tape: CA
+Hub : SELECT State FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: CA
+-------------
+
+Hub: 91360
+Tape: 91360
+Hub : SELECT ZipCode FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 91360
+-------------
+
+Hub: Ventura
+Tape: VENTURA
+Hub : SELECT County FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: VENTURA
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CensusTract FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 517 53RD DR.
+Tape: 42 BROOKSIDE ST.
+Hub : SELECT MailAdr FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 42 BROOKSIDE ST.
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MailAdr2 FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: DAYTON,
+Tape: ALLEN PARK
+Hub : SELECT MailCity FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: ALLEN PARK
+-------------
+
+Hub: OH
+Tape: MI
+Hub : SELECT MailSt FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: MI
+-------------
+
+Hub: 45420
+Tape: 48101
+Hub : SELECT MailZip FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 48101
+-------------
+
+Hub: 517 53RD DR.
+Tape: 517 53RD DR.
+Hub : SELECT MailAdr FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 517 53RD DR.
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MailAdr2 FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: DAYTON,
+Tape: DAYTON,
+Hub : SELECT MailCity FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: DAYTON,
+-------------
+
+Hub: OH
+Tape: OH
+Hub : SELECT MailSt FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: OH
+-------------
+
+Hub: 45420
+Tape: 45420
+Hub : SELECT MailZip FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 45420
+-------------
+
+Hub: 517 53RD DR.
+Tape: 42 BROOKSIDE ST.
+Hub : SELECT HmAdr FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 42 BROOKSIDE ST.
+-------------
+
+Hub: DAYTON,
+Tape: ALLEN PARK
+Hub : SELECT HmCity FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: ALLEN PARK
+-------------
+
+Hub: OH
+Tape: MI
+Hub : SELECT HmSt FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: MI
+-------------
+
+Hub: 45420
+Tape: 48101
+Hub : SELECT HmZip FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 48101
+-------------
+
+Hub: 
+Tape: 
+Hub : SELECT HmCnty FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: 517 53RD DR.
+Tape: 517 53RD DR.
+Hub : SELECT HmAdr FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 517 53RD DR.
+-------------
+
+Hub: DAYTON,
+Tape: DAYTON,
+Hub : SELECT HmCity FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: DAYTON,
+-------------
+
+Hub: OH
+Tape: OH
+Hub : SELECT HmSt FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: OH
+-------------
+
+Hub: 45420
+Tape: 45420
+Hub : SELECT HmZip FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 45420
+-------------
+
+Hub: 
+Tape: 
+Hub : SELECT HmCnty FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT SalesPrice FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 300000.0
+Tape: 300000.00
+Hub : SELECT Appraised_Value FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 300000.00
+-------------
+
+Hub: null
+Tape: 300000.00
+Hub : SELECT Appraised_Value FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: 300000.00
+-------------
+
+Hub: 300000.0
+Tape: 300000.0
+Hub : SELECT Appraised_Value FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 300000.0
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ApprTypCd FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT apprappointdate FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT appraisername FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT LTV FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CLTV FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CLTV FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 640
+Tape: 640
+Hub : SELECT FICOScore FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 640
+-------------
+
+Hub: 0
+Tape: 0
+Hub : SELECT StatedFico FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 0
+-------------
+
+Hub: 0
+Tape: 0
+Hub : SELECT StatedFico FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 0
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AUSCert1008TotalDTI FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT HousingRatio FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT DebtRatio FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT HousingRatio FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 2712
+Tape: 6
+Hub : SELECT BorCount FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 6
+-------------
+
+Hub: 125435226
+Tape: 123367421
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123367421
+-------------
+
+Hub: 125435226
+Tape: 125435226
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 125435226
+-------------
+
+Hub: 125435226
+Tape: 123452102
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123452102
+-------------
+
+Hub: 125435226
+Tape: 123552102
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123552102
+-------------
+
+Hub: 125435226
+Tape: 123453103
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123453103
+-------------
+
+Hub: 125435226
+Tape: 123553103
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123553103
+-------------
+
+Hub: 125435226
+Tape: 123454104
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123454104
+-------------
+
+Hub: 125435226
+Tape: 123554104
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123554104
+-------------
+
+Hub: 125435226
+Tape: 123455105
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123455105
+-------------
+
+Hub: 125435226
+Tape: 123555105
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123555105
+-------------
+
+Hub: TEST1
+Tape: TEST
+Hub : SELECT FstNm FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: TEST
+-------------
+
+Hub: 
+Tape: 
+Hub : SELECT MiddleInit FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: HUBINCOME
+Tape: HUBS_003
+Hub : SELECT LstNm FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: HUBS_003
+-------------
+
+Hub: 
+Tape: 
+Hub : SELECT Suffix FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: 125435226
+Tape: 123367421
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 123367421
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT DOB FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT EthnicityCdTranslated FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_AmericanIndianAlaskaNative FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Asian FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_AsianIndian FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Chinese FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Filipino FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Japanese FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Korean FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Vietnamese FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_OtherAsianInd FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_NativeHawaiianorPacificIslander FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_NativeHawaiian FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_GuamanianorChamorro FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Samoan FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_OtherPacificIslanderInd FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_White FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT GenderCdTranslated FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: TEST1
+Tape: TEST1
+Hub : SELECT FstNm FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: TEST1
+-------------
+
+Hub: 8125001191
+Tape: TEST1
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: TEST1
+-------------
+
+Hub: 8125001191
+Tape: 
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: 
+Tape: 
+Hub : SELECT MiddleInit FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: HUBINCOME
+Tape: HUBINCOME
+Hub : SELECT LstNm FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: HUBINCOME
+-------------
+
+Hub: 8125001191
+Tape: HUBINCOME
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: HUBINCOME
+-------------
+
+Hub: 
+Tape: 
+Hub : SELECT Suffix FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: 8125001191
+Tape: 
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 
+-------------
+
+Hub: 8125001191
+Tape: 125435226
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 125435226
+-------------
+
+Hub: 125435226
+Tape: 125435226
+Hub : SELECT SSNum FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 125435226
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT DOB FROM clg_reporting.VAULT.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 8125001191
+Tape: null
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT EthnicityCdTranslated FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 8125001191
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_AmericanIndianAlaskaNative FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Asian FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_AsianIndian FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Chinese FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Filipino FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Japanese FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Korean FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Vietnamese FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_OtherAsianInd FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_NativeHawaiianorPacificIslander FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_NativeHawaiian FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_GuamanianorChamorro FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_Samoan FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_OtherPacificIslanderInd FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: 0
+Tape: INFORMATION NOT PROVIDED
+Hub : SELECT Race_White FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: INFORMATION NOT PROVIDED
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT GenderCdTranslated FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT MI_InsrCoNm FROM clg_reporting.dbo.vw_LOS_PCG_InsuranceDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MI_InsrCoNm FROM clg_reporting.dbo.vw_LOS_PCG_InsuranceDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MI_InsrCoNm FROM clg_reporting.dbo.vw_LOS_PCG_InsuranceDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MI_PolicyNum FROM clg_reporting.dbo.vw_LOS_PCG_InsuranceDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MI_InsrCoNm FROM clg_reporting.dbo.vw_LOS_PCG_InsuranceDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MI_Coverage FROM clg_reporting.dbo.vw_LOS_PCG_InsuranceDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT DocLevelCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: 705993.24
+Hub : SELECT MtgtypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 705993.24
+-------------
+
+Hub: Other
+Tape: 705993.24
+Hub : SELECT LoanPurpose FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 705993.24
+-------------
+
+Hub: null
+Tape: 705993.24
+Hub : SELECT DocLevelCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 705993.24
+-------------
+
+Hub: null
+Tape: 705993.24
+Hub : SELECT UwProgramNm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 705993.24
+-------------
+
+Hub: 2.619159652E7
+Tape: 705993.24
+Hub : SELECT Total_Income_LOS FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 705993.24
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT MtgtypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: Other
+Tape: 0.0
+Hub : SELECT LoanPurpose FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT DocLevelCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT UwProgramNm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: 13640.16
+Tape: 0.0
+Hub : SELECT TotalIncome FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT MtgtypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: Other
+Tape: 0.0
+Hub : SELECT LoanPurpose FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT DocLevelCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT UwProgramNm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: 8125001191
+Tape: 0.0
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: 13640.16
+Tape: 0.0
+Hub : SELECT TotalIncome FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT EscrowAmtCollectedOnHud1 FROM clg_reporting.dbo.vw_los_pcg_cd_payment_Details WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MoMInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MERS_MIN FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MtgTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MicFhaVaAgencyCaseNum FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT LienPos FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ServicingStatus FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT QM_Code FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT NonQMInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: 1
+Tape: Y
+Hub : SELECT HPML_Flag FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: Y
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT LstAUSTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AUSDecision FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT MtgTypcd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT LstAUSTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT PurchaseDtm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: APPLE CORRESPONDENTS
+Tape: APPLE CORRESPONDENTS
+Hub : SELECT ClientName FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: APPLE CORRESPONDENTS
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CorrLoanNum FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: Other
+Tape: null
+Hub : SELECT LoanPurpose FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CashoutAmt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: N   
+Tape: N   
+Hub : SELECT BuyDownOptionInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N   
+-------------
+
+Hub: Y
+Tape: Y
+Hub : SELECT AssumptionInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: Y
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT FstTimeHomeBuyer FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape:  
+Hub : SELECT FstTimeHomeBuyer FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape:  
+-------------
+
+Hub: null
+Tape:  
+Hub : SELECT FstTimeHomeBuyer FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape:  
+-------------
+
+Hub: 8125001191
+Tape:  
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape:  
+-------------
+
+Hub: 0
+Tape: Y
+Hub : SELECT SelfEmployedFlag FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: Y
+-------------
+
+Hub: 0
+Tape: Y
+Hub : SELECT SelfEmployedFlag FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: Y
+-------------
+
+Hub: 0
+Tape: Y
+Hub : SELECT SelfEmployedFlag FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: Y
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT FloodZoneCd FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT FloodZoneInd FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT FLOOD_InsrCoNm FROM clg_reporting.dbo.vw_los_pcg_insurancedetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT AUSCert1008TotalAvailableAssets FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT ApprTypCd FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: Primary Residence
+Tape: N
+Hub : SELECT OccType FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: 1
+Tape: N
+Hub : SELECT HPML_Flag FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT QM_Code FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_StipDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT TPOFlag FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CreditReportCompany FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CreditReportCompany FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT CreditReportCompany FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 8125001191
+Tape: null
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_FirstPaymentChangeDate FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_FirstRateChangeDate FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_MaxInterestRateDecreasePerChange FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_MaxInterestRateIncreasePerChange FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_RateFloor FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_LifetimeCap FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_Margin FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_IndexName FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_IndexValue FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_InterestRateRoundingFactor FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_RateAdjustmentInitialDecreaseCap FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_RateAdjustmentInitialIncreaseCap FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_RateAdjustmentPeriodicDecreaseCap FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_RateAdjustmentPeriodicIncreaseCap FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_ConvertibleIndicator FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: 
+Tape: null
+Hub : SELECT ARM_LookbackDays FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_FirstRateAdjustmentMinimumRate FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_FirstRateAdjustmentMaximumRate FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_InitialAdjustmentTerm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ARM_SubsequentAdjustmentTerm FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AmortTypCd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: N
+Tape: null
+Hub : SELECT NegAmortInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: N
+Tape: N
+Hub : SELECT HomeStyleIND FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: 0.0
+Hub : SELECT EscHoldbackAmt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: 0.0
+-------------
+
+Hub: 1303608056
+Tape: 1302858056
+Hub : SELECT HmPh FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 1302858056
+-------------
+
+Hub: 1303608056
+Tape: 1303608056
+Hub : SELECT HmPh FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 1303608056
+-------------
+
+Hub: 8125001191
+Tape: 1303608056
+Hub : SELECT LoanNum FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: 1303608056
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ProjNm FROM clg_reporting.dbo.vw_los_pcg_propertyDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT HomeReadyInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT CEMAFlag FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT ENoteInd FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT CitizenshipStsCd FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT CitizenshipStsCd FROM clg_reporting.dbo.vw_LOS_PCG_BorrowerDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: null
+Hub : SELECT AUSCert1008CreditRptDt FROM clg_reporting.dbo.vw_LOS_PCG_LoanDetails WHERE LoanNum = '8125001191';
+Tape: null
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT CreateDtm FROM clg_reporting.dbo.vw_LOS_PCG_StipDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
+
+Hub: null
+Tape: N
+Hub : SELECT StipSatsDtm FROM clg_reporting.dbo.vw_LOS_PCG_StipDetails WHERE LoanNum = '8125001191';
+Tape: N
+-------------
